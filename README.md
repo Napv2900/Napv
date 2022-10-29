@@ -13,3 +13,4 @@
 изображение_2022-10-13_095737192.png - результат обучения нейросети  
 решение логической задачи.py - решение логической задачи на Python  
 $$\overline{A\vee B}=\overline{A}\wedge\overline{B}$$
+![lagrida_latex_editor](https://user-images.githubusercontent.com/114603384/198817745-4ab06a7f-250a-4fc5-a74e-246a832b3b1b.png)
