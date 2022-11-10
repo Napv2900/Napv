@@ -8,7 +8,8 @@
 КодХемминга.ipynb- Код Хемминга  
 Морзе.xlsx - Азбука Морзе в Excel  
 морзе.py - Азбука Морзе на Python  
-  Логика.xlsx - Логическая таблица  
+  Логика.xlsx - Логическая таблица  ![lagrida_latex_editor (2)](https://user-images.githubusercontent.com/114603384/20098
+
 3 (1).xlsx - Решение задачи из ЕГЭ  
 изображение_2022-10-13_095737192.png - результат обучения нейросети  
 решение логической задачи.py - решение логической задачи на Python  
@@ -28,3 +29,8 @@ $$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
 
 
 $$f^\prime(x)\ =\lim\limits_{\Delta x\to0}\frac{f(x+\Delta x)-f(x)}{\Delta x}$$
+
+
+
+
+![lagrida_latex_editor (2)](https://user-images.githubusercontent.com/114603384/200984231-9fa2405a-3d03-481b-a53b-3cd09cf4a864.png)
