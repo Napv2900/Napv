@@ -13,4 +13,18 @@
 изображение_2022-10-13_095737192.png - результат обучения нейросети  
 решение логической задачи.py - решение логической задачи на Python  
 $$\overline{A\vee B}=\overline{A}\wedge\overline{B}$$
-![lagrida_latex_editor](https://user-images.githubusercontent.com/114603384/198817745-4ab06a7f-250a-4fc5-a74e-246a832b3b1b.png)
+![lagrida_latex_editor](https://user-images.githubusercontent.com/114603384/198817745-4ab06a7f-250a-4fc5-a74e-246a832b3b1b.png)  
+
+
+
+
+$$\overline{E^{2_{1}}}=\sqrt{\frac{F_{\alpha}^{x-1}}{(x-1)x}}+\alpha^{\frac{1}{2}}_{1}+\beta_{1}^{\frac{2}{3}}$$
+
+
+$$\sum_{i=1}^{n}Q_{i}=0$$
+
+
+$$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
+
+
+$$f^\prime(x)\ =\lim\limits_{\Delta x\to0}\frac{f(x+\Delta x)-f(x)}{\Delta x}$$
