@@ -41,8 +41,8 @@ $$f^\prime(x)\ =\lim\limits_{\Delta x\to0}\frac{f(x+\Delta x)-f(x)}{\Delta x}$$
 
 ```mermaid
 flowchart LR
-A[Hard] -->|Text| B(Round)
-B --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
+A[10 класс] -->|Аттестация| B(11 класс)
+B --> C{ЕГЭ}
+C -->|Сдал| D[ВУЗ]
+C -->|Не сдал| E[Армия]
 ```
