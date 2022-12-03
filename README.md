@@ -34,3 +34,14 @@ $$f^\prime(x)\ =\lim\limits_{\Delta x\to0}\frac{f(x+\Delta x)-f(x)}{\Delta x}$$
 
 
 ![lagrida_latex_editor (2)](https://user-images.githubusercontent.com/114603384/200984231-9fa2405a-3d03-481b-a53b-3cd09cf4a864.png)
+
+
+
+
+
+
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
