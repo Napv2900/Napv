@@ -11,3 +11,6 @@ if(условие):
  with open('имя файла') as f: - открытие текстового файла
  a=f.readline() чтение файла 
  a=f.replace('C','S') меняем одно значение на другое 
+ if all(num%delit!=0 for delit in range(2,num)):
+  тело
+ break принудительно закончить программу 
